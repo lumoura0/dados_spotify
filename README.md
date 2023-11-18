@@ -1,3 +1,3 @@
 # **Análise de Dados do Spotify**
 
-[img]https://i.imgur.com/Ibsz6gA.png[/img]
+<a href="(https://i.imgur.com/Ibsz6gA.png)"><img src="https://i.imgur.com/Ibsz6gA.png" title="source: imgur.com" /></a>
